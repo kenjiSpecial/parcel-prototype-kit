@@ -40,5 +40,8 @@
     "rollup-plugin-commonjs": "^9.1.0",
     "rollup-plugin-node-resolve": "^3.3.0",
     "tubugl-helper": "^1.2.0"
-  }
+  },
+  "browserslist": [
+    "last 1 chrome versions"
+  ]
 }
